@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Windoors & Renovations",
+    "phone": "+19152760482",
+    "category": "window and door installer",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "El Paso's Window & Door Experts",
+      "heroSubline": "Durable, energy-efficient windows and doors built for the desert climate. Upgrade your home with Windoors & Renovations.",
+      "aboutTitle": "Built on Integrity, Crafted for El Paso",
+      "aboutText": [
+        "Windoors & Renovations started with a simple goal: to provide El Paso homeowners with top-quality window and door solutions that stand up to our harsh climate. We're a locally owned and operated business, deeply rooted in this community.",
+        "Our approach is straightforward. We listen to your needs, offer honest advice, and deliver exceptional workmanship. We believe in doing the job right the first time, using only the best materials and proven installation techniques.",
+        "We're proud to serve the El Paso area and are committed to giving back. We actively support local initiatives and strive to create lasting relationships with our customers. We're not just contractors; we're your neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand El Paso's unique climate and architectural styles, ensuring the perfect fit for your home."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We source durable, energy-efficient windows and doors designed to withstand the desert heat and minimize energy costs."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team provides precise and professional installation, guaranteeing long-lasting performance and weather protection."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "We're dedicated to providing exceptional service and ensuring your complete satisfaction from start to finish."
+        }
+      ],
+      "ctaHeadline": "Upgrade Your Home Today",
+      "ctaSubline": "Contact Windoors & Renovations for a free consultation and discover the difference quality windows and doors can make."
+    },
+    "services": [
+      {
+        "slug": "window-installation",
+        "name": "Window Installation",
+        "shortDescription": "Expert window installation services tailored for El Paso homes.",
+        "description": "Proper window installation is crucial for energy efficiency and weather protection in El Paso's climate. Our team has extensive experience installing all types of windows, from traditional double-hung windows to modern casement and sliding windows. We work with a variety of materials, including vinyl, wood, and aluminum, to match your home's style and budget.\n\nOur installation process begins with a thorough assessment of your existing window openings. We carefully remove the old windows, prepare the opening, and ensure a precise fit for the new windows. We use high-quality sealants and insulation to prevent air leaks and water damage, ensuring optimal performance and energy savings. We also offer custom window solutions for unique architectural features or specific design requirements.\n\nWhether you're replacing old, drafty windows or building a new home, Windoors & Renovations provides reliable and professional window installation services that enhance the beauty, comfort, and value of your property. Trust us to deliver exceptional results that stand the test of time.",
+        "process": [
+          "Step 1: Consultation and Measurement",
+          "Step 2: Window Selection and Ordering",
+          "Step 3: Professional Installation",
+          "Step 4: Quality Inspection and Cleanup"
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Enhanced Home Security",
+          "Increased Property Value",
+          "Reduced Noise Pollution"
+        ],
+        "faq": [
+          {
+            "question": "How long does window installation take?",
+            "answer": "The duration of window installation depends on the number of windows and the complexity of the project. We'll provide an estimated timeline during the consultation."
+          },
+          {
+            "question": "What type of windows are best for El Paso's climate?",
+            "answer": "Low-E windows with insulated frames are ideal for El Paso's hot summers. They reflect heat and reduce energy consumption."
+          },
+          {
+            "question": "Do you offer a warranty on your window installations?",
+            "answer": "Yes, we offer a comprehensive warranty on both the windows and the installation workmanship."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation",
+        "name": "Door Installation",
+        "shortDescription": "Secure and stylish door installation services for your El Paso home.",
+        "description": "A properly installed door is essential for security, energy efficiency, and curb appeal. We specialize in installing a wide range of doors, including entry doors, patio doors, and interior doors. Whether you're looking for a sturdy steel door for enhanced security or an elegant wood door to complement your home's style, we have the expertise to handle any installation project.\n\nOur door installation process includes precise measurements, careful removal of the old door, and expert fitting of the new door. We ensure that the door is properly aligned, sealed, and secured to prevent drafts and unauthorized entry. We also install high-quality hardware, such as locks, handles, and hinges, for smooth and reliable operation.\n\nFrom classic designs to modern styles, we offer a variety of door options to suit your taste and budget. We work with leading manufacturers to provide durable, energy-efficient doors that enhance the beauty and functionality of your home. Trust Windoors & Renovations to deliver professional door installation services that exceed your expectations.",
+        "process": [
+          "Step 1: Consultation and Door Selection",
+          "Step 2: Precise Measurements and Ordering",
+          "Step 3: Professional Door Installation",
+          "Step 4: Hardware Installation and Security Check"
+        ],
+        "benefits": [
+          "Enhanced Home Security",
+          "Improved Energy Efficiency",
+          "Increased Curb Appeal",
+          "Reduced Drafts and Noise"
+        ],
+        "faq": [
+          {
+            "question": "What types of doors do you install?",
+            "answer": "We install entry doors, patio doors, interior doors, and storm doors in various materials, including wood, steel, fiberglass, and vinyl."
+          },
+          {
+            "question": "How do I choose the right door for my home?",
+            "answer": "Consider your budget, style preferences, security needs, and energy efficiency goals. We can help you select the perfect door during a consultation."
+          },
+          {
+            "question": "Do you offer door repair services?",
+            "answer": "Yes, we provide door repair services for issues such as damaged frames, broken hinges, and faulty locks."
+          }
+        ]
+      },
+      {
+        "slug": "window-replacement",
+        "name": "Window Replacement",
+        "shortDescription": "Transform your home with energy-efficient window replacements.",
+        "description": "Replacing old, inefficient windows can significantly improve your home's energy efficiency and comfort. Windoors & Renovations specializes in window replacement services that enhance the beauty, value, and performance of your property. We offer a wide selection of replacement windows in various styles, materials, and colors to match your home's architectural design.\n\nOur window replacement process begins with a thorough inspection of your existing windows to identify areas of air leakage, water damage, or structural issues. We then provide a detailed proposal outlining the best replacement options for your needs and budget. Our skilled installers carefully remove the old windows, prepare the openings, and install the new windows with precision and attention to detail.\n\nWe use high-quality sealants and insulation to ensure a tight, weather-resistant fit, preventing drafts and reducing energy consumption. We also offer energy-efficient window options, such as low-E glass and argon gas fills, to maximize energy savings. Trust Windoors & Renovations to deliver seamless window replacement services that transform your home into a more comfortable and energy-efficient living space.",
+        "process": [
+          "Step 1: Window Inspection and Assessment",
+          "Step 2: Window Selection and Quote",
+          "Step 3: Professional Window Replacement",
+          "Step 4: Cleanup and Quality Assurance"
+        ],
+        "benefits": [
+          "Lower Energy Bills",
+          "Improved Home Comfort",
+          "Increased Property Value",
+          "Enhanced Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need to replace my windows?",
+            "answer": "Signs of window replacement include drafts, condensation, difficulty opening or closing, and visible damage."
+          },
+          {
+            "question": "What are the benefits of energy-efficient windows?",
+            "answer": "Energy-efficient windows reduce heat transfer, lower energy bills, and improve indoor comfort."
+          },
+          {
+            "question": "How much does window replacement cost?",
+            "answer": "The cost of window replacement depends on the number of windows, the type of windows, and the complexity of the installation. We provide free estimates."
+          }
+        ]
+      },
+      {
+        "slug": "patio-doors",
+        "name": "Patio Door Installation",
+        "shortDescription": "Enhance your outdoor living space with our patio door installation services.",
+        "description": "Patio doors provide seamless access to your outdoor living space while enhancing the beauty and functionality of your home. Windoors & Renovations specializes in patio door installation services that create a smooth transition between your indoor and outdoor areas. We offer a variety of patio door styles, including sliding glass doors, French doors, and bi-fold doors, to suit your design preferences.\n\nOur patio door installation process includes precise measurements, careful removal of the old door, and expert fitting of the new door. We ensure that the door is properly aligned, sealed, and secured to prevent drafts and unauthorized entry. We also install high-quality hardware, such as locks, handles, and screens, for smooth and reliable operation.\n\nWhether you're looking to create a cozy outdoor retreat or a spacious entertainment area, we can help you choose the perfect patio door to complement your home's style and enhance your outdoor living experience. Trust Windoors & Renovations to deliver professional patio door installation services that transform your backyard into a relaxing and inviting space.",
+        "process": [
+          "Step 1: Consultation and Design Selection",
+          "Step 2: Precise Measurements and Ordering",
+          "Step 3: Professional Patio Door Installation",
+          "Step 4: Hardware Installation and Security Check"
+        ],
+        "benefits": [
+          "Seamless Indoor-Outdoor Living",
+          "Enhanced Natural Light",
+          "Increased Home Value",
+          "Improved Security"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of sliding glass doors?",
+            "answer": "Sliding glass doors offer easy access to your patio, maximize natural light, and save space."
+          },
+          {
+            "question": "What are the benefits of French doors?",
+            "answer": "French doors add elegance and charm to your home, providing a classic and sophisticated look."
+          },
+          {
+            "question": "What are the benefits of bi-fold doors?",
+            "answer": "Bi-fold doors create a wide opening to your outdoor space, perfect for entertaining and enjoying the outdoors."
+          }
+        ]
+      },
+      {
+        "slug": "storm-doors",
+        "name": "Storm Door Installation",
+        "shortDescription": "Protect your home from the elements with our durable storm door solutions.",
+        "description": "Storm doors are an excellent addition to any El Paso home, providing an extra layer of protection against the elements. Windoors & Renovations offers professional storm door installation services that enhance the security, energy efficiency, and curb appeal of your property. We offer a variety of storm door styles, including full-view, half-view, and self-storing models, to suit your needs and preferences.\n\nOur storm door installation process includes precise measurements, careful installation of the door frame, and expert fitting of the door panel. We ensure that the door is properly aligned, sealed, and secured to prevent drafts and unauthorized entry. We also install high-quality hardware, such as locks, handles, and closers, for smooth and reliable operation.\n\nWhether you're looking to protect your entry door from the harsh desert sun or add an extra layer of security to your home, we can help you choose the perfect storm door to meet your needs. Trust Windoors & Renovations to deliver professional storm door installation services that enhance the comfort, security, and value of your home.",
+        "process": [
+          "Step 1: Consultation and Door Selection",
+          "Step 2: Precise Measurements and Ordering",
+          "Step 3: Professional Storm Door Installation",
+          "Step 4: Hardware Installation and Security Check"
+        ],
+        "benefits": [
+          "Enhanced Home Security",
+          "Improved Energy Efficiency",
+          "Protection from the Elements",
+          "Increased Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a full-view storm door?",
+            "answer": "Full-view storm doors allow maximum natural light and provide an unobstructed view of your front yard."
+          },
+          {
+            "question": "What are the benefits of a half-view storm door?",
+            "answer": "Half-view storm doors offer a balance of natural light and privacy, with a solid panel at the bottom."
+          },
+          {
+            "question": "What are the benefits of a self-storing storm door?",
+            "answer": "Self-storing storm doors feature a retractable screen that can be easily adjusted for ventilation."
+          }
+        ]
+      },
+      {
+        "slug": "custom-windows",
+        "name": "Custom Window Solutions",
+        "shortDescription": "Unique window designs tailored to your El Paso home's architecture.",
+        "description": "For homes with unique architectural features or specific design requirements, Windoors & Renovations offers custom window solutions that perfectly match your vision. We work closely with you to design and install custom windows that enhance the beauty, functionality, and value of your property. Whether you need unusually shaped windows, oversized windows, or windows with specific energy-efficient features, we have the expertise to bring your ideas to life.\n\nOur custom window process begins with a detailed consultation to understand your needs and preferences. We then create custom designs that meet your specifications, using high-quality materials and advanced manufacturing techniques. Our skilled installers carefully install the custom windows, ensuring a precise fit and optimal performance.\n\nWe offer a variety of custom window options, including different shapes, sizes, materials, and finishes. We also offer energy-efficient glass options, such as low-E glass and argon gas fills, to maximize energy savings. Trust Windoors & Renovations to deliver exceptional custom window solutions that transform your home into a unique and personalized living space.",
+        "process": [
+          "Step 1: Design Consultation and Measurements",
+          "Step 2: Custom Window Design and Manufacturing",
+          "Step 3: Professional Window Installation",
+          "Step 4: Quality Inspection and Customer Satisfaction"
+        ],
+        "benefits": [
+          "Unique Architectural Design",
+          "Personalized Style",
+          "Enhanced Home Value",
+          "Improved Energy Efficiency"
+        ],
+        "faq": [
+          {
+            "question": "What types of custom window shapes do you offer?",
+            "answer": "We offer a variety of custom window shapes, including arched, circular, triangular, and trapezoidal windows."
+          },
+          {
+            "question": "What materials can I choose for custom windows?",
+            "answer": "You can choose from a variety of materials, including wood, vinyl, aluminum, and fiberglass."
+          },
+          {
+            "question": "How long does it take to manufacture custom windows?",
+            "answer": "The manufacturing time for custom windows depends on the complexity of the design and the materials used. We provide an estimated timeline during the consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "El Paso",
+        "slug": "el-paso-tx",
+        "state": "TX",
+        "content": "Windoors & Renovations is proud to offer our expert window and door installation services to the residents of El Paso, Texas. As a locally owned and operated business, we understand the unique needs of El Paso homeowners. From energy-efficient windows that combat the desert heat to durable doors that enhance your home's security and curb appeal, we have the perfect solutions for your home improvement projects.\n\nWe're committed to providing El Paso with top-quality products and exceptional customer service. Our experienced team is dedicated to making your window and door replacement or installation process smooth and stress-free. Contact us today for a free consultation and discover how Windoors & Renovations can transform your El Paso home.",
+        "localContext": "El Paso, situated on the US-Mexico border, boasts a rich cultural heritage and is known for its stunning desert landscapes and vibrant community.",
+        "nearbyAreas": [
+          "Anthony",
+          "Canutillo",
+          "Socorro"
+        ]
+      },
+      {
+        "city": "Anthony",
+        "slug": "anthony-tx",
+        "state": "TX",
+        "content": "Windoors & Renovations extends its exceptional window and door services to Anthony, Texas, and the surrounding communities. We understand the importance of having reliable and energy-efficient windows and doors, especially in the Texas climate. Whether you're looking to upgrade your home's appearance, improve energy efficiency, or enhance security, our team is here to help.\n\nWe offer a wide selection of high-quality windows and doors to suit every style and budget. Our experienced installers ensure precise and professional installation, guaranteeing long-lasting performance and satisfaction. Choose Windoors & Renovations for all your window and door needs in Anthony.",
+        "localContext": "Anthony, Texas, known as the 'Gateway to Texas', offers a small-town charm with a strong sense of community.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Canutillo",
+        "slug": "canutillo-tx",
+        "state": "TX",
+        "content": "Residents of Canutillo, Texas, can rely on Windoors & Renovations for top-notch window and door installation and replacement services. We are dedicated to providing homeowners in Canutillo with the highest quality products and exceptional customer service. Our team understands the specific challenges of the local climate and will help you choose the best windows and doors to meet your needs.\n\nFrom energy-efficient windows that reduce your energy bills to stylish doors that enhance your home's curb appeal, we have a wide range of options to choose from. We're committed to making your home improvement project a success. Contact us today to schedule a free consultation.",
+        "localContext": "Canutillo, located just north of El Paso, is a growing community known for its agricultural heritage and close-knit neighborhoods.",
+        "nearbyAreas": [
+          "El Paso",
+          "Anthony",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Socorro",
+        "slug": "socorro-tx",
+        "state": "TX",
+        "content": "Windoors & Renovations is proud to serve the community of Socorro, Texas, with expert window and door services. We understand the unique needs of Socorro homeowners, offering a wide range of products to enhance your home's beauty, energy efficiency, and security.\n\nOur experienced team is committed to providing exceptional customer service and professional installation. We'll work closely with you to choose the perfect windows and doors for your home and ensure a smooth and stress-free installation process. Trust Windoors & Renovations for all your window and door needs in Socorro.",
+        "localContext": "Socorro, a historic town near El Paso, boasts a rich cultural heritage and a strong sense of community pride.",
+        "nearbyAreas": [
+          "El Paso",
+          "Clint",
+          "Horizon City"
+        ]
+      },
+      {
+        "city": "Clint",
+        "slug": "clint-tx",
+        "state": "TX",
+        "content": "Windoors & Renovations brings high-quality window and door solutions to Clint, Texas. We are committed to providing Clint residents with durable, energy-efficient, and aesthetically pleasing windows and doors. Our services are tailored to meet the specific needs of your home and budget.\n\nWe offer a broad selection of products, ensuring you'll find the perfect fit for your style and requirements. Our expert installation team guarantees that your new windows and doors will perform optimally and enhance your home's value. Choose Windoors & Renovations for reliable service and exceptional results in Clint.",
+        "localContext": "Clint, Texas, is a small, family-friendly community east of El Paso, offering a peaceful and welcoming environment.",
+        "nearbyAreas": [
+          "Socorro",
+          "Horizon City",
+          "Fabens"
+        ]
+      },
+      {
+        "city": "Horizon City",
+        "slug": "horizon-city-tx",
+        "state": "TX",
+        "content": "Windoors & Renovations is your trusted partner for window and door installations in Horizon City, Texas. We recognize the importance of energy-efficient solutions in this growing community. We offer a wide range of windows and doors designed to withstand the Texas climate while enhancing your home's beauty and value.\n\nOur experienced professionals provide expert installation services, ensuring your new windows and doors function flawlessly for years to come. We are dedicated to customer satisfaction and strive to exceed your expectations with every project. Contact us today for a free consultation and discover how we can transform your Horizon City home.",
+        "localContext": "Horizon City, a rapidly growing suburb of El Paso, offers a mix of residential areas and family-friendly amenities.",
+        "nearbyAreas": [
+          "Socorro",
+          "Clint",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "San Elizario",
+        "slug": "san-elizario-tx",
+        "state": "TX",
+        "content": "Windoors & Renovations is dedicated to serving the historic community of San Elizario, Texas, providing top-quality window and door services. We understand the importance of maintaining the unique character of San Elizario homes while enhancing their energy efficiency and security. Our team offers a wide selection of products that blend seamlessly with the town's architectural style.\n\nFrom traditional designs to modern innovations, we have the perfect windows and doors for your San Elizario home. Our expert installers ensure precise and professional installation, preserving the integrity of your property. Choose Windoors & Renovations for exceptional service and lasting value.",
+        "localContext": "San Elizario, a historic town east of El Paso, is known for its well-preserved Spanish Colonial architecture and rich cultural heritage.",
+        "nearbyAreas": [
+          "Horizon City",
+          "Clint",
+          "Fabens"
+        ]
+      },
+      {
+        "city": "Vinton",
+        "slug": "vinton-tx",
+        "state": "TX",
+        "content": "Windoors & Renovations proudly serves the residents of Vinton, Texas, with high-quality window and door installation and replacement services. We understand the unique needs of Vinton homeowners and offer a wide range of products to enhance your home's beauty, energy efficiency, and security. Our team is committed to providing exceptional customer service and professional installation.\n\nWe'll work closely with you to choose the perfect windows and doors for your home and ensure a smooth and stress-free installation process. Trust Windoors & Renovations for all your window and door needs in Vinton.",
+        "localContext": "Vinton, Texas, is a small community located northwest of El Paso, offering a rural setting and a close-knit atmosphere.",
+        "nearbyAreas": [
+          "Canutillo",
+          "Anthony",
+          "El Paso"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "Windoors & Renovations did an amazing job replacing all the windows in my Sunset Heights home. The new windows look fantastic and have made a huge difference in keeping my house cool during the summer months. The team was professional, efficient, and very respectful of my property. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "Ricardo L.",
+        "rating": 4,
+        "service": "Patio Door Installation",
+        "text": "I recently had a sliding glass door installed by Windoors & Renovations, and I'm very pleased with the results. The door looks great and opens smoothly. There was a minor issue with the screen, but they came back promptly to fix it. Overall, a positive experience.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Susan K.",
+        "rating": 5,
+        "service": "Door Installation",
+        "text": "My front door was old and drafty. Windoors & Renovations installed a beautiful new steel door that is not only more secure but also much more energy-efficient. The installation team was professional and courteous, and they cleaned up everything afterward. Great service!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "service": "Window Installation",
+        "text": "We had Windoors & Renovations install new windows in our Upper Valley home, and we couldn't be happier. The team was knowledgeable, efficient, and paid attention to every detail. The windows look fantastic and have significantly reduced the noise from the street.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Elizabeth P.",
+        "rating": 4,
+        "service": "Storm Door Installation",
+        "text": "I had a storm door installed to protect my front door from the El Paso sun. The installation was quick and easy. The door looks great and provides extra security. I would definitely use Windoors & Renovations again.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "Excellent service from start to finish. The team at Windoors & Renovations helped me choose the perfect replacement windows for my Kern Place bungalow. The installation was flawless, and the new windows have made a huge difference in the comfort of my home.",
+        "date": "2025-02-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "El Paso Window & Door Installation",
+        "description": "Expert window and door installation in El Paso, TX. Energy-efficient upgrades, secure entryways. Free quotes!"
+      },
+      "about": {
+        "title": "About Windoors & Renovations",
+        "description": "Learn about Windoors & Renovations, El Paso's trusted window and door contractor. Quality workmanship, local expertise."
+      },
+      "services": {
+        "title": "Windoors & Renovations Services",
+        "description": "Window installation, door replacement, patio doors & more. El Paso's leading window & door company. Free estimates."
+      },
+      "contact": {
+        "title": "Contact Windoors & Renovations",
+        "description": "Contact Windoors & Renovations for window and door services in El Paso. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Windoors & Renovations Reviews",
+        "description": "Read reviews from satisfied Windoors & Renovations customers in El Paso. See why we're the top choice."
+      },
+      "service-areas": {
+        "title": "Windoors & Renovations Service Areas",
+        "description": "Areas we serve for window and door installation. El Paso, TX and surrounding communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "window-installation": "/images/service-window-installation.webp",
+      "door-installation": "/images/service-door-installation.webp",
+      "window-replacement": "/images/service-window-replacement.webp",
+      "patio-doors": "/images/service-patio-doors.webp",
+      "storm-doors": "/images/service-storm-doors.webp",
+      "custom-windows": "/images/service-custom-windows.webp"
+    },
+    "servicesResponsive": {
+      "window-installation": {
+        "src": "/images/service-window-installation.webp",
+        "srcset": "/images/service-window-installation-400w.webp 400w, /images/service-window-installation-800w.webp 800w, /images/service-window-installation-1200w.webp 1200w, /images/service-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation": {
+        "src": "/images/service-door-installation.webp",
+        "srcset": "/images/service-door-installation-400w.webp 400w, /images/service-door-installation-800w.webp 800w, /images/service-door-installation-1200w.webp 1200w, /images/service-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-replacement": {
+        "src": "/images/service-window-replacement.webp",
+        "srcset": "/images/service-window-replacement-400w.webp 400w, /images/service-window-replacement-800w.webp 800w, /images/service-window-replacement-1200w.webp 1200w, /images/service-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-doors": {
+        "src": "/images/service-patio-doors.webp",
+        "srcset": "/images/service-patio-doors-400w.webp 400w, /images/service-patio-doors-800w.webp 800w, /images/service-patio-doors-1200w.webp 1200w, /images/service-patio-doors.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-doors": {
+        "src": "/images/service-storm-doors.webp",
+        "srcset": "/images/service-storm-doors-400w.webp 400w, /images/service-storm-doors-800w.webp 800w, /images/service-storm-doors-1200w.webp 1200w, /images/service-storm-doors.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-windows": {
+        "src": "/images/service-custom-windows.webp",
+        "srcset": "/images/service-custom-windows-400w.webp 400w, /images/service-custom-windows-800w.webp 800w, /images/service-custom-windows-1200w.webp 1200w, /images/service-custom-windows.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
